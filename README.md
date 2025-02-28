@@ -22,6 +22,9 @@ Myntra's competitive landscape includes strong rivals like AJIO, Amazon Fashion,
 **Customer Satisfaction**
 
 **Improved Customer Service** Enhancing support with faster response times, 24/7 assistance, and proactive issue resolution can boost customer satisfaction.
+
 **Transparent & Hassle-Free Returns** A clear return policy with easy pickups and quick refunds/exchanges can improve trust and loyalty.
+
 **Quality Assurance Programs** Implementing stricter quality checks and seller verification can reduce defective or fake product complaints.
+
 **Loyalty & Reward Programs** Offering exclusive discounts, early access to sales, and reward points for repeat customers can enhance engagement and retention.
