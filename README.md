@@ -1,4 +1,4 @@
-#Myntra Analysis
+Myntra Analysis
 
 #INTRODUCTION
 
