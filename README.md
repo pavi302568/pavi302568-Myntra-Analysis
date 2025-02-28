@@ -1,6 +1,6 @@
 **Myntra Analysis**
 
-Guvi Capstone Project Myntra_Analysis. The main aim of the project is to Customer sentiment analysis, Market trends identification, Formulating strategic recommendations.
+The main aim of the project is to Customer sentiment analysis, Market trends identification, Formulating strategic recommendations.
 
 **INTRODUCTION**
 
